@@ -1,1 +1,2 @@
-Zawartość pliku pierwszego.
+Zawartość pliku pierwszego. 
+Wprowadzam zmiany w pliku.
